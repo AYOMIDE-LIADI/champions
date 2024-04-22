@@ -3,3 +3,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+.navigation{
+    background-color: blue;
+    justify-content: center;
+    
+}
+.cool{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
